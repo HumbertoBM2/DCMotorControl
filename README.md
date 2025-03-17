@@ -67,3 +67,4 @@ This repository contains a project for controlling the speed of a DC motor using
 ![reference](Gallery/reference.png)
 ![reference2](Gallery/reference2.png)
 ![tuning](Gallery/tuning.png)
+![setup](Gallery/setup.png)
