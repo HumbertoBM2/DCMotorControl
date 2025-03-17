@@ -1,0 +1,3 @@
+[console_scripts]
+input = pid_control.input:main
+

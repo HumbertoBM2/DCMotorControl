@@ -1,0 +1,23 @@
+ctrl:
+  ros__parameters:
+    Kp: 5.5
+    Ki: 5.0
+    Kd: 0.02
+    sample_time: 0.02
+
+dc_motor:
+  ros__parameters:
+    sample_time: 0.02
+    sys_gain_K: 1.75
+    sys_tau_T: 0.5
+    initial_conditions: 0.0
+
+input:
+  ros__parameters:
+    signal_type: "manual"
+    speed_command: 0.0
+    amplitude: 1.0
+    omega: 1.0
+    publish_rate: 10.0
+    step_time: 1.0
+
